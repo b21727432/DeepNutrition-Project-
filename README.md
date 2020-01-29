@@ -23,6 +23,6 @@ Week 5: https://medium.com/bbm406f19/week-5-deepnutrition-be-aware-of-your-macro
 Week 6: https://medium.com/bbm406f19/week-6-deepnutrition-be-aware-of-your-macronutrients-54abd178148 <br />
 
 # Our Team
-Ali Kayadibi (https://www.linkedin.com/in/ali-kayadibi-a1a262147/), <br />
+Ali Kayadibi (https://www.linkedin.com/in/ali-kayadibi-a1a262147/), (https://github.com/b21727432)<br />
 Ismet Okatar (https://www.linkedin.com/in/ismetokatar/), (https://github.com/ismetokatar) <br />
 Muhammed Aydogan (https://www.linkedin.com/in/muhammed-aydogan-22b31b179)
